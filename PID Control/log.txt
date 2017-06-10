@@ -1,0 +1,832 @@
+-13.00
+Compute In: 7.00, Out: 312.50
+-13.03
+Compute In: 6.97, Out: 10.57
+-12.98
+Compute In: 7.02, Out: 5.04
+-12.57
+Compute In: 7.43, Out: 3.21
+-12.88
+Compute In: 7.12, Out: 11.09
+-12.57
+Compute In: 7.43, Out: 10.55
+-13.03
+Compute In: 6.97, Out: 25.76
+-13.03
+Compute In: 6.97, Out: 27.62
+-12.59
+Compute In: 7.41, Out: 28.53
+-12.59
+Compute In: 7.41, Out: 39.31
+-12.59
+Compute In: 7.41, Out: 45.60
+-12.59
+Compute In: 7.41, Out: 51.90
+-12.57
+Compute In: 7.43, Out: 57.97
+-12.57
+Compute In: 7.43, Out: 64.43
+-12.57
+Compute In: 7.43, Out: 70.72
+-13.03
+Compute In: 6.97, Out: 82.82
+-12.57
+Compute In: 7.43, Out: 78.86
+-13.03
+Compute In: 6.97, Out: 95.62
+-12.57
+Compute In: 7.43, Out: 91.66
+-12.57
+Compute In: 7.43, Out: 102.60
+-12.57
+Compute In: 7.43, Out: 108.89
+-13.03
+Compute In: 6.97, Out: 120.99
+-13.03
+Compute In: 6.97, Out: 122.85
+-13.00
+Compute In: 7.00, Out: 128.94
+-13.03
+Compute In: 6.97, Out: 136.22
+-13.45
+Compute In: 6.55, Out: 147.56
+-13.03
+Compute In: 6.97, Out: 144.97
+-13.45
+Compute In: 6.55, Out: 160.80
+-13.03
+Compute In: 6.97, Out: 158.22
+-12.88
+Compute In: 7.12, Out: 166.93
+-13.03
+Compute In: 6.97, Out: 176.86
+-13.03
+Compute In: 6.97, Out: 181.83
+-13.03
+Compute In: 6.97, Out: 188.34
+-12.57
+Compute In: 7.43, Out: 189.04
+-12.57
+Compute In: 7.43, Out: 199.98
+-13.03
+Compute In: 6.97, Out: 212.09
+-13.03
+Compute In: 6.97, Out: 213.95
+-13.03
+Compute In: 6.97, Out: 220.47
+-13.03
+Compute In: 6.97, Out: 226.98
+-13.03
+Compute In: 6.97, Out: 233.50
+-13.03
+Compute In: 6.97, Out: 240.02
+-13.03
+Compute In: 6.97, Out: 246.53
+-12.57
+Compute In: 7.43, Out: 247.23
+-12.59
+Compute In: 7.41, Out: 258.39
+-13.00
+Compute In: 7.00, Out: 269.68
+-13.03
+Compute In: 6.97, Out: 272.47
+-13.00
+Compute In: 7.00, Out: 278.22
+-13.03
+Compute In: 6.97, Out: 285.49
+-13.00
+Compute In: 7.00, Out: 291.23
+-12.57
+Compute In: 7.43, Out: 292.69
+-13.45
+Compute In: 6.55, Out: 314.28
+-12.59
+Compute In: 7.41, Out: 301.43
+-12.57
+Compute In: 7.43, Out: 316.13
+-12.57
+Compute In: 7.43, Out: 322.59
+-12.59
+Compute In: 7.41, Out: 329.09
+-12.57
+Compute In: 7.43, Out: 334.99
+-12.59
+Compute In: 7.41, Out: 341.66
+-12.57
+Compute In: 7.43, Out: 347.57
+-12.57
+Compute In: 7.43, Out: 354.03
+-12.59
+Compute In: 7.41, Out: 360.53
+-12.57
+Compute In: 7.43, Out: 366.43
+-12.59
+Compute In: 7.41, Out: 373.10
+-12.57
+Compute In: 7.43, Out: 379.01
+-12.57
+Compute In: 7.43, Out: 385.47
+-12.59
+Compute In: 7.41, Out: 391.97
+-12.59
+Compute In: 7.41, Out: 398.09
+-13.03
+Compute In: 6.97, Out: 409.98
+-12.57
+Compute In: 7.43, Out: 406.20
+-12.57
+Compute In: 7.43, Out: 417.14
+-12.57
+Compute In: 7.43, Out: 423.42
+-12.57
+Compute In: 7.43, Out: 429.71
+-12.57
+Compute In: 7.43, Out: 435.99
+-12.83
+Compute In: 7.17, Out: 445.51
+-12.57
+Compute In: 7.43, Out: 446.10
+-12.57
+Compute In: 7.43, Out: 454.97
+-12.59
+Compute In: 7.41, Out: 461.47
+-12.57
+Compute In: 7.43, Out: 467.38
+-12.57
+Compute In: 7.43, Out: 473.84
+-12.59
+Compute In: 7.41, Out: 480.34
+-12.59
+Compute In: 7.41, Out: 486.46
+-12.52
+Compute In: 7.48, Out: 491.89
+-12.53
+Compute In: 7.47, Out: 499.05
+-12.52
+Compute In: 7.48, Out: 504.93
+-12.53
+Compute In: 7.47, Out: 511.58
+-12.12
+Compute In: 7.88, Out: 512.50
+-12.52
+Compute In: 7.48, Out: 527.66
+-12.07
+Compute In: 7.93, Out: 524.34
+-12.07
+Compute In: 7.93, Out: 534.86
+-12.05
+Compute In: 7.95, Out: 540.68
+-12.00
+Compute In: 8.00, Out: 546.23
+-11.60
+Compute In: 8.40, Out: 547.79
+-12.07
+Compute In: 7.93, Out: 563.38
+-12.07
+Compute In: 7.93, Out: 564.76
+-12.07
+Compute In: 7.93, Out: 570.79
+-12.07
+Compute In: 7.93, Out: 576.83
+-12.52
+Compute In: 7.48, Out: 588.47
+-12.59
+Compute In: 7.41, Out: 591.10
+-12.98
+Compute In: 7.02, Out: 601.66
+-12.12
+Compute In: 7.88, Out: 593.41
+-12.95
+Compute In: 7.05, Out: 618.44
+-12.59
+Compute In: 7.41, Out: 612.11
+-12.98
+Compute In: 7.02, Out: 626.98
+-12.57
+Compute In: 7.43, Out: 624.34
+-12.79
+Compute In: 7.21, Out: 637.56
+-12.52
+Compute In: 7.48, Out: 638.27
+-12.53
+Compute In: 7.47, Out: 647.50
+-12.05
+Compute In: 7.95, Out: 647.56
+-12.02
+Compute In: 7.98, Out: 657.98
+-12.05
+Compute In: 7.95, Out: 664.77
+-12.02
+Compute In: 7.98, Out: 670.02
+-12.00
+Compute In: 8.00, Out: 676.15
+-11.66
+Compute In: 8.34, Out: 678.02
+-12.10
+Compute In: 7.90, Out: 692.90
+-12.10
+Compute In: 7.90, Out: 694.47
+-12.10
+Compute In: 7.90, Out: 700.52
+-12.16
+Compute In: 7.84, Out: 707.22
+-13.03
+Compute In: 6.97, Out: 723.77
+-13.00
+Compute In: 7.00, Out: 721.06
+-12.17
+Compute In: 7.83, Out: 717.56
+-12.57
+Compute In: 7.43, Out: 736.88
+-12.12
+Compute In: 7.88, Out: 733.59
+-12.38
+Compute In: 7.62, Out: 747.37
+-12.53
+Compute In: 7.47, Out: 752.91
+-12.12
+Compute In: 7.88, Out: 752.46
+-11.66
+Compute In: 8.34, Out: 756.84
+-11.66
+Compute In: 8.34, Out: 767.32
+-11.66
+Compute In: 8.34, Out: 773.15
+-12.12
+Compute In: 7.88, Out: 784.79
+-12.10
+Compute In: 7.90, Out: 785.98
+-11.64
+Compute In: 8.36, Out: 786.39
+-12.10
+Compute In: 7.90, Out: 802.68
+-12.12
+Compute In: 7.88, Out: 804.29
+-12.12
+Compute In: 7.88, Out: 810.18
+-12.10
+Compute In: 7.90, Out: 816.03
+-12.16
+Compute In: 7.84, Out: 822.90
+-12.62
+Compute In: 7.38, Out: 834.28
+-12.64
+Compute In: 7.36, Out: 836.15
+-12.17
+Compute In: 7.83, Out: 836.47
+-11.71
+Compute In: 8.29, Out: 841.40
+-12.64
+Compute In: 7.36, Out: 863.54
+-12.62
+Compute In: 7.38, Out: 860.34
+-12.64
+Compute In: 7.36, Out: 867.03
+-12.64
+Compute In: 7.36, Out: 873.18
+-12.62
+Compute In: 7.38, Out: 879.28
+-12.64
+Compute In: 7.36, Out: 885.98
+-12.74
+Compute In: 7.26, Out: 893.42
+-12.74
+Compute In: 7.26, Out: 898.76
+-12.72
+Compute In: 7.28, Out: 904.91
+-13.14
+Compute In: 6.86, Out: 916.62
+-12.72
+Compute In: 7.28, Out: 913.88
+-13.14
+Compute In: 6.86, Out: 929.55
+-12.72
+Compute In: 7.28, Out: 926.81
+-13.03
+Compute In: 6.97, Out: 941.19
+-12.72
+Compute In: 7.28, Out: 940.72
+-12.74
+Compute In: 7.26, Out: 950.40
+-12.72
+Compute In: 7.28, Out: 956.39
+-12.72
+Compute In: 7.28, Out: 962.92
+-12.72
+Compute In: 7.28, Out: 969.28
+-12.72
+Compute In: 7.28, Out: 975.65
+-12.74
+Compute In: 7.26, Out: 982.22
+-12.74
+Compute In: 7.26, Out: 988.42
+-12.72
+Compute In: 7.28, Out: 994.58
+-12.72
+Compute In: 7.28, Out: 1001.11
+-12.74
+Compute In: 7.26, Out: 1007.69
+-12.72
+Compute In: 7.28, Out: 1013.67
+-12.74
+Compute In: 7.26, Out: 1020.42
+-12.72
+Compute In: 7.28, Out: 1026.40
+-12.74
+Compute In: 7.26, Out: 1033.15
+-12.72
+Compute In: 7.28, Out: 1039.14
+-12.72
+Compute In: 7.28, Out: 1045.67
+-12.72
+Compute In: 7.28, Out: 1052.03
+-13.14
+Compute In: 6.86, Out: 1063.57
+-12.72
+Compute In: 7.28, Out: 1060.83
+-13.16
+Compute In: 6.84, Out: 1076.71
+-12.74
+Compute In: 7.26, Out: 1073.81
+-12.72
+Compute In: 7.28, Out: 1084.10
+-12.74
+Compute In: 7.26, Out: 1090.85
+-12.72
+Compute In: 7.28, Out: 1096.84
+-12.74
+Compute In: 7.26, Out: 1103.59
+-12.72
+Compute In: 7.28, Out: 1109.57
+-12.74
+Compute In: 7.26, Out: 1116.32
+-12.74
+Compute In: 7.26, Out: 1122.52
+-12.74
+Compute In: 7.26, Out: 1128.89
+-12.74
+Compute In: 7.26, Out: 1135.26
+-12.74
+Compute In: 7.26, Out: 1141.63
+-12.72
+Compute In: 7.28, Out: 1147.78
+-12.62
+Compute In: 7.38, Out: 1153.03
+-12.17
+Compute In: 7.83, Out: 1154.77
+-12.62
+Compute In: 7.38, Out: 1170.94
+-12.64
+Compute In: 7.36, Out: 1172.98
+-13.03
+Compute In: 6.97, Out: 1184.09
+-12.62
+Compute In: 7.38, Out: 1181.46
+-13.03
+Compute In: 6.97, Out: 1197.09
+-12.62
+Compute In: 7.38, Out: 1194.29
+-12.83
+Compute In: 7.17, Out: 1207.33
+-12.57
+Compute In: 7.43, Out: 1208.44
+-11.66
+Compute In: 8.34, Out: 1205.89
+-12.98
+Compute In: 7.02, Out: 1237.45
+-13.00
+Compute In: 7.00, Out: 1230.88
+-12.52
+Compute In: 7.48, Out: 1231.17
+-12.57
+Compute In: 7.43, Out: 1242.90
+-12.84
+Compute In: 7.16, Out: 1252.12
+-12.12
+Compute In: 7.88, Out: 1246.73
+-12.10
+Compute In: 7.90, Out: 1259.82
+-12.57
+Compute In: 7.43, Out: 1271.86
+-12.10
+Compute In: 7.90, Out: 1267.67
+-11.64
+Compute In: 8.36, Out: 1272.56
+-12.12
+Compute In: 7.88, Out: 1289.07
+-11.60
+Compute In: 8.40, Out: 1283.84
+-11.66
+Compute In: 8.34, Out: 1295.46
+-11.66
+Compute In: 8.34, Out: 1300.77
+-11.59
+Compute In: 8.41, Out: 1305.73
+-11.60
+Compute In: 8.40, Out: 1312.43
+-11.60
+Compute In: 8.40, Out: 1318.06
+-11.60
+Compute In: 8.40, Out: 1323.86
+-11.12
+Compute In: 8.88, Out: 1323.63
+-11.55
+Compute In: 8.45, Out: 1339.40
+-11.55
+Compute In: 8.45, Out: 1340.87
+-11.81
+Compute In: 8.19, Out: 1349.88
+-11.50
+Compute In: 8.50, Out: 1349.32
+-12.72
+Compute In: 7.28, Out: 1373.47
+-12.72
+Compute In: 7.28, Out: 1367.59
+-11.71
+Compute In: 8.29, Out: 1361.24
+-12.22
+Compute In: 7.78, Out: 1383.73
+-11.29
+Compute In: 8.71, Out: 1373.03
+-11.19
+Compute In: 8.81, Out: 1386.70
+-9.62
+Compute In: 10.38, Out: 1373.71
+-8.40
+Compute In: 11.60, Out: 1378.91
+-5.90
+Compute In: 14.10, Out: 1364.10
+-5.17
+Compute In: 14.83, Out: 1383.00
+-4.78
+Compute In: 15.22, Out: 1387.87
+-3.36
+Compute In: 16.64, Out: 1376.55
+-3.16
+Compute In: 16.84, Out: 1389.78
+-3.05
+Compute In: 16.95, Out: 1392.14
+-1.93
+Compute In: 18.07, Out: 1380.69
+-1.26
+Compute In: 18.74, Out: 1384.46
+-0.02
+Compute In: 19.98, Out: 1376.29
+1.40
+Compute In: 21.40, Out: 1371.04
+2.05
+Compute In: 22.05, Out: 1376.29
+2.28
+Compute In: 22.28, Out: 1379.02
+2.16
+Compute In: 22.16, Out: 1381.63
+1.38
+Compute In: 21.38, Out: 1389.04
+0.78
+Compute In: 20.78, Out: 1388.14
+-0.26
+Compute In: 19.74, Out: 1394.65
+0.21
+Compute In: 20.21, Out: 1378.61
+0.31
+Compute In: 20.31, Out: 1381.87
+2.00
+Compute In: 22.00, Out: 1361.63
+2.05
+Compute In: 22.05, Out: 1376.88
+2.02
+Compute In: 22.02, Out: 1376.80
+1.17
+Compute In: 21.17, Out: 1386.01
+0.62
+Compute In: 20.62, Out: 1383.87
+-1.16
+Compute In: 18.84, Out: 1400.24
+-2.33
+Compute In: 17.67, Out: 1397.71
+-3.48
+Compute In: 16.52, Out: 1401.59
+-2.95
+Compute In: 17.05, Out: 1385.10
+-2.17
+Compute In: 17.83, Out: 1382.22
+-1.00
+Compute In: 19.00, Out: 1376.41
+0.29
+Compute In: 20.29, Out: 1372.47
+0.78
+Compute In: 20.78, Out: 1379.22
+1.55
+Compute In: 21.55, Out: 1373.96
+1.24
+Compute In: 21.24, Out: 1384.83
+0.41
+Compute In: 20.41, Out: 1391.45
+-0.28
+Compute In: 19.72, Out: 1391.59
+-0.95
+Compute In: 19.05, Out: 1393.23
+0.21
+Compute In: 20.21, Out: 1372.54
+0.14
+Compute In: 20.14, Out: 1384.85
+1.59
+Compute In: 21.59, Out: 1365.99
+2.36
+Compute In: 22.36, Out: 1369.98
+3.31
+Compute In: 23.31, Out: 1364.71
+1.84
+Compute In: 21.84, Out: 1390.85
+2.21
+Compute In: 22.21, Out: 1370.75
+1.07
+Compute In: 21.07, Out: 1387.49
+-0.38
+Compute In: 19.62, Out: 1393.68
+-1.50
+Compute In: 18.50, Out: 1393.40
+-2.29
+Compute In: 17.71, Out: 1392.85
+-1.83
+Compute In: 18.17, Out: 1380.25
+-1.41
+Compute In: 18.59, Out: 1380.65
+-0.79
+Compute In: 19.21, Out: 1377.73
+-0.12
+Compute In: 19.88, Out: 1375.93
+0.21
+Compute In: 20.21, Out: 1378.62
+0.36
+Compute In: 20.36, Out: 1379.85
+-0.36
+Compute In: 19.64, Out: 1390.28
+-0.47
+Compute In: 19.53, Out: 1384.51
+-0.84
+Compute In: 19.16, Out: 1388.45
+-1.26
+Compute In: 18.74, Out: 1390.25
+-1.36
+Compute In: 18.64, Out: 1388.03
+-1.72
+Compute In: 18.28, Out: 1392.21
+-1.76
+Compute In: 18.24, Out: 1389.88
+-0.74
+Compute In: 19.26, Out: 1377.70
+-0.26
+Compute In: 19.74, Out: 1382.21
+1.22
+Compute In: 21.22, Out: 1368.63
+1.09
+Compute In: 21.09, Out: 1384.57
+1.43
+Compute In: 21.43, Out: 1378.34
+2.00
+Compute In: 22.00, Out: 1373.96
+1.95
+Compute In: 21.95, Out: 1379.29
+1.24
+Compute In: 21.24, Out: 1386.64
+0.57
+Compute In: 20.57, Out: 1387.35
+0.09
+Compute In: 20.09, Out: 1386.38
+-1.00
+Compute In: 19.00, Out: 1395.09
+-1.47
+Compute In: 18.53, Out: 1390.54
+-2.34
+Compute In: 17.66, Out: 1397.61
+-2.17
+Compute In: 17.83, Out: 1387.84
+-1.00
+Compute In: 19.00, Out: 1375.99
+0.31
+Compute In: 20.31, Out: 1371.84
+1.03
+Compute In: 21.03, Out: 1375.73
+1.79
+Compute In: 21.79, Out: 1372.97
+2.88
+Compute In: 22.88, Out: 1366.09
+2.43
+Compute In: 22.43, Out: 1381.11
+0.47
+Compute In: 20.47, Out: 1399.98
+-0.52
+Compute In: 19.48, Out: 1392.38
+-1.71
+Compute In: 18.29, Out: 1397.68
+-2.69
+Compute In: 17.31, Out: 1398.92
+-2.40
+Compute In: 17.60, Out: 1386.78
+-1.67
+Compute In: 18.33, Out: 1381.85
+-0.90
+Compute In: 19.10, Out: 1380.23
+-0.26
+Compute In: 19.74, Out: 1380.46
+0.34
+Compute In: 20.34, Out: 1379.43
+1.84
+Compute In: 21.84, Out: 1366.54
+3.24
+Compute In: 23.24, Out: 1363.16
+3.60
+Compute In: 23.60, Out: 1370.98
+3.09
+Compute In: 23.09, Out: 1379.27
+1.48
+Compute In: 21.48, Out: 1392.59
+-0.48
+Compute In: 19.52, Out: 1400.39
+-2.71
+Compute In: 17.29, Out: 1408.78
+-2.86
+Compute In: 17.14, Out: 1389.83
+-3.53
+Compute In: 16.47, Out: 1398.11
+-2.69
+Compute In: 17.31, Out: 1382.59
+-0.90
+Compute In: 19.10, Out: 1369.97
+0.57
+Compute In: 20.57, Out: 1370.03
+1.33
+Compute In: 21.33, Out: 1374.92
+1.79
+Compute In: 21.79, Out: 1376.03
+2.12
+Compute In: 22.12, Out: 1375.69
+1.40
+Compute In: 21.40, Out: 1386.96
+0.34
+Compute In: 20.34, Out: 1392.16
+-0.28
+Compute In: 19.72, Out: 1389.23
+-1.41
+Compute In: 18.59, Out: 1397.39
+-1.71
+Compute In: 18.29, Out: 1390.38
+-1.86
+Compute In: 18.14, Out: 1390.24
+-1.57
+Compute In: 18.43, Out: 1385.96
+-1.10
+Compute In: 18.90, Out: 1383.85
+0.31
+Compute In: 20.31, Out: 1371.39
+1.79
+Compute In: 21.79, Out: 1366.84
+2.17
+Compute In: 22.17, Out: 1376.03
+3.03
+Compute In: 23.03, Out: 1367.96
+1.71
+Compute In: 21.71, Out: 1391.65
+1.43
+Compute In: 21.43, Out: 1380.97
+-0.02
+Compute In: 19.98, Out: 1395.60
+-0.47
+Compute In: 19.53, Out: 1386.73
+-1.47
+Compute In: 18.53, Out: 1394.98
+-1.26
+Compute In: 18.74, Out: 1383.13
+-1.31
+Compute In: 18.69, Out: 1386.47
+-0.17
+Compute In: 19.83, Out: 1372.39
+0.57
+Compute In: 20.57, Out: 1374.59
+0.57
+Compute In: 20.57, Out: 1381.71
+0.47
+Compute In: 20.47, Out: 1382.72
+0.36
+Compute In: 20.36, Out: 1382.75
+-0.48
+Compute In: 19.52, Out: 1392.09
+-1.31
+Compute In: 18.69, Out: 1394.23
+-2.02
+Compute In: 17.98, Out: 1395.45
+-2.28
+Compute In: 17.72, Out: 1392.62
+-2.33
+Compute In: 17.67, Out: 1391.82
+-2.02
+Compute In: 17.98, Out: 1388.59
+-0.57
+Compute In: 19.43, Out: 1374.59
+1.02
+Compute In: 21.02, Out: 1369.53
+2.31
+Compute In: 22.31, Out: 1368.72
+2.84
+Compute In: 22.84, Out: 1373.82
+2.67
+Compute In: 22.67, Out: 1379.90
+2.69
+Compute In: 22.69, Out: 1376.62
+0.09
+Compute In: 20.09, Out: 1407.99
+-0.74
+Compute In: 19.26, Out: 1392.26
+-1.45
+Compute In: 18.55, Out: 1393.19
+-2.12
+Compute In: 17.88, Out: 1395.25
+0.21
+Compute In: 20.21, Out: 1360.49
+0.93
+Compute In: 20.93, Out: 1374.61
+2.36
+Compute In: 22.36, Out: 1363.50
+3.21
+Compute In: 23.21, Out: 1366.07
+1.03
+Compute In: 21.03, Out: 1400.07
+-0.84
+Compute In: 19.16, Out: 1401.32
+-1.97
+Compute In: 18.03, Out: 1396.96
+-2.84
+Compute In: 17.16, Out: 1397.72
+-2.90
+Compute In: 17.10, Out: 1391.00
+-2.09
+Compute In: 17.91, Out: 1381.80
+-0.90
+Compute In: 19.10, Out: 1376.08
+0.00
+Compute In: 20.00, Out: 1377.21
+1.12
+Compute In: 21.12, Out: 1372.17
+2.05
+Compute In: 22.05, Out: 1371.18
+2.16
+Compute In: 22.16, Out: 1378.17
+1.48
+Compute In: 21.48, Out: 1386.53
+-0.10
+Compute In: 19.90, Out: 1398.90
+-1.41
+Compute In: 18.59, Out: 1399.46
+-2.74
+Compute In: 17.26, Out: 1403.66
+-2.34
+Compute In: 17.66, Out: 1386.80
+-0.74
+Compute In: 19.26, Out: 1371.90
+-0.12
+Compute In: 19.88, Out: 1380.54
+1.43
+Compute In: 21.43, Out: 1367.41
+2.57
+Compute In: 22.57, Out: 1367.99
+1.66
+Compute In: 21.66, Out: 1389.51
+1.09
+Compute In: 21.09, Out: 1386.65
+-0.12
+Compute In: 19.88, Out: 1395.51
+-0.64
+Compute In: 19.36, Out: 1389.96
+-1.36
+Compute In: 18.64, Out: 1394.16
+-1.36
+Compute In: 18.64, Out: 1387.60
+-0.79
+Compute In: 19.21, Out: 1381.17
+-0.38
+Compute In: 19.62, Out: 1382.09
+0.26
+Compute In: 20.26, Out: 1378.44
+1.14
+Compute In: 21.14, Out: 1373.70
+1.53
+Compute In: 21.53, Out: 1376.97
+-0.05
+Compute In: 19.95, Out: 1399.99
+-0.67
+Compute In: 19.33, Out: 1391.91
+-1.31
+Compute In: 18.69, Out: 1394.02
+-0.95
+Compute In: 19.05, Out: 1383.77
+-0.67
+Compute In: 19.33, Out: 1384.41
+0.62
+Compute In: 20.62, Out: 1371.34
+-0.07
+Compute In: 19.93, Out: 1392.59
+1.02
+Compute In: 21.02, Out: 1372.15
+3.03
+Compute In: 23.03, Out: 1357.28
